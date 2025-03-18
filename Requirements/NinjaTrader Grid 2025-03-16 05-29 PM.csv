@@ -1,0 +1,2 @@
+Instrument,Account,Strategy,Market pos.,Qty,Entry price,Exit price,Entry time,Exit time,Profit,Commission,MAE,MFE,Bars,
+NQ MAR25,Sim102,,Long,1,19587.25,19596.00,3/16/2025 5:00:04 PM,3/16/2025 5:00:06 PM,$175.00,$0.00,$10.00,$185.00,0,
